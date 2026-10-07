@@ -1,7 +1,5 @@
 # Hi, I'm Jakub 👋
 
-IT student interested in computer networks, Linux, cybersecurity and IT infrastructure.
-
 I'm especially interested in:
 - 🌐 Computer Networks
 - 🐧 Linux & Operating Systems
