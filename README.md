@@ -17,6 +17,3 @@ A web application for managing vehicle fleets developed as my engineering thesis
 
 Python • Django • React • JavaScript • PostgreSQL  
 Docker • Git • Linux • HTML • CSS
-
-## 📫 Contact
-...
