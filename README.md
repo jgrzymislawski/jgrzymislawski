@@ -1,6 +1,6 @@
 # Hi, I'm Jakub 👋
 
-I'm an IT student from Poland, currently finishing my degree in Computer Science.
+IT student interested in computer networks, Linux, cybersecurity and IT infrastructure.
 
 I'm especially interested in:
 - 🌐 Computer Networks
