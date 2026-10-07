@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Jakub 👋
 
-<!--
-**jgrzymislawski/jgrzymislawski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT student from Poland, currently finishing my degree in Computer Science.
 
-Here are some ideas to get you started:
+I'm especially interested in:
+- 🌐 Computer Networks
+- 🐧 Linux & Operating Systems
+- 🔐 Cybersecurity
+- 🖥️ IT Infrastructure & Hardware
+- 🛠️ IT Support
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently working on
+
+### Fleet Management System
+
+A web application for managing vehicle fleets developed as my engineering thesis.
+
+**Tech stack:**
+Python • Django • React • PostgreSQL • Docker
+
+Features include:
+- vehicle management
+- driver management
+- authentication
+- vehicle service tracking
+- insurance and inspection reminders
+
+## 🛠️ Technologies
+
+Python • Django • React • JavaScript • PostgreSQL  
+Docker • Git • Linux • HTML • CSS
+
+## 📫 Contact
+...
